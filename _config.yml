@@ -16,9 +16,9 @@ dark-theme: auto
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
-resume-url: https://google.com/?q=my+resume
+courses: true
+courses-external: true
+courses-url: https://youtube.com/@HuaLinMandarin
 
 url: https://hualinmandarin.github.io
 # your url: https://USERNAME.github.io
