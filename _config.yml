@@ -20,7 +20,7 @@ Pinyin: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://hualinmandarin.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -52,7 +52,7 @@ authors:
     name: James Foster
     bio: A Man who develops software with coffee
     external-image: false
-    picture: assets/images/james.jpg
+    picture: assets/images/hl.jpg
     twitter: jamesfoster
 
 # do you want a larger site? change the option below
