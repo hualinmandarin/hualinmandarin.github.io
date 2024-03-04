@@ -14,7 +14,14 @@ layout: page
 	<li>HSK 1 - 6</li>
 </ul>
 
-<h2>Skills</h2>
+<h2>Download</h2>
+
+<A HREF="tianzige.pdf">Chinese writing sheet tianzige 8*6 </A> 
+<A HREF="mizige.pdf">Chinese writing sheet mizige 8*6 </A>
+<A HREF="12tianzige.pdf">Chinese writing sheet tianzige 12*9 </A> 
+<A HREF="12mizige.pdf">Chinese writing sheet mizige 12*9 </A>
+<A HREF="Chinese numbers 0 to 99.pdf">Chinese numbers 0 to 99</A> 
+
 
 <ul>
 	<li><a href="https://github.com/">Link</a></li>
