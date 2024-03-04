@@ -16,11 +16,21 @@ layout: page
 
 <h2>Download</h2>
 
+<p  style="text-align:justify">
 <A HREF="tianzige.pdf">Chinese writing sheet tianzige 8*6 </A> 
+</p>
+<p  style="text-align:justify">
 <A HREF="mizige.pdf">Chinese writing sheet mizige 8*6 </A>
+</p>
+<p  style="text-align:justify">
 <A HREF="12tianzige.pdf">Chinese writing sheet tianzige 12*9 </A> 
+</p>
+<p  style="text-align:justify">
 <A HREF="12mizige.pdf">Chinese writing sheet mizige 12*9 </A>
+</p>
+<p  style="text-align:justify">
 <A HREF="Chinese numbers 0 to 99.pdf">Chinese numbers 0 to 99</A> 
+</p>
 
 
 <ul>
