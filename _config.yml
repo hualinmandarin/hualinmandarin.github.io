@@ -21,7 +21,6 @@ courses-external: true
 courses-url: https://youtube.com/@HuaLinMandarin
 
 url: https://hualinmandarin.github.io
-# your url: https://USERNAME.github.io
 
 permalink: /:title/
 
