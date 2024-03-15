@@ -30,4 +30,3 @@ layout: page
  
 <p>more coming up ...</p>
 
-<p> 2024 </p>
