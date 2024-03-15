@@ -1,12 +1,8 @@
 ---
-title: About
+title: about
 layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
-
-<p>more coming up ...</p>
-
-<p> 2024 </p>
 
 <h2>Standard Courses</h2>
 
@@ -32,3 +28,6 @@ layout: page
 <A HREF="Chinese numbers 1 to 99.pdf">Chinese numbers below 100</A> 
 </p>
  
+<p>more coming up ...</p>
+
+<p> 2024 </p>
