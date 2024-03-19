@@ -28,5 +28,5 @@ layout: page
 <A HREF="Chinese numbers 1 to 99.pdf">Chinese numbers below 100</A> 
 </p>
  
-<p>more coming up ...</p>
+
 
