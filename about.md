@@ -6,5 +6,7 @@ layout: page
 
 <p> Welcome to Hualin (话林, with the meaning of 'word forest') Mandarin! You can find Mandarin Chinese lessons and download language learning materials here. </p>
 
-<p>Sign up here for Chinese language lessons with a customized curriculum for individuals at any level of frequency.</p>
+<p  style="text-align:justify"> 
+<A HREF="https://forms.gle/Y1nE3Xn11RNffQwN6">Sign up here</A> for Chinese language lessons with a customized curriculum for individuals at any level of frequency :D 
+</p> 
  
